@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Music
 - 📫 How to reach me bookdjfale@gmail.com
 - 😄 Pronouns: Master Fale
-- ⚡ Fun fact: I like Steve Jobs marketing approach
+- ⚡ Fun fact: I like Steve  theJobs marketing approach
 
 <!---
 FaleInvnt/FaleInvnt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
